@@ -4,19 +4,19 @@ language to solve a classification problem.
 
 ## Table of Content
 
-1. [Concepts used](#concepts-used)
+1. [Concepts used](#1-concepts-used)
 
-2. [Input data](#input-data)
+2. [Input data](#2-input-data)
 
-3. [Flowchart](#flowchart)
+3. [Flowchart](#3-flowchart)
 
-4. [Working](#working)
+4. [Working](#4-working)
 
-5. [Output](#output)
+5. [Output](#5-output)
 
-6. [Improvements](#improvements)
+6. [Improvements](#6-improvements)
 
-7. [System specs.](#system-specifications)
+7. [System specs.](#7-system-specifications)
 
 ## 1. Concepts used
 
