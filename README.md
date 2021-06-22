@@ -22,7 +22,7 @@ language to solve a classification problem.
 
 (i) Artificial Neural Network. The current system uses a basic ANN without any hidden layer. The structure is described below :-
 
-![ann](https://raw.githubusercontent.com/AnchitGupta22/Digit-Recognition-using-ML-in-C/master/asset/ann.PNG?token=AMVCPRX3JBV4HDWBMCMKHCDA2HJ3A)
+![ann](https://github.com/AnchitGupta22/Digit-Recognition-using-ML-in-C/blob/master/asset/ann.PNG)
 
 The input layer comprises of 784 neurons, since the size of each image in the dataset is 28x28. The output layer has 10 neurons followed by a sigmoid classfier to generate a single
 final output for the input image.
