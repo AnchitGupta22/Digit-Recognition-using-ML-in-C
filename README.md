@@ -22,9 +22,9 @@ language to solve a classification problem.
 
 (i) Artificial Neural Network. The current system uses a basic ANN without any hidden layer. The structure is described below :-
 
-![ann](https://github.com/AnchitGupta22/Digit-Recognition-using-ML-in-C/blob/master/asset/ann.PNG)
+![ann](https://github.com/AnchitGupta22/Digit-Recognition-using-ML-in-C/blob/master/asset/structure_of_ann.PNG)
 
-The input layer comprises of 784 neurons, since the size of each image in the dataset is 28x28. The output layer has 10 neurons followed by a sigmoid classfier to generate a single
+The input layer comprises of 784 neurons, since the size of each image in the dataset is 28x28. The output layer has 10 neurons followed by a softmax classfier to generate a single
 final output for the input image.
 
 (ii)  Graph creation in C using graphics.h 
