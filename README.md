@@ -57,13 +57,13 @@ taken to be 100.
 
 (vi) This step includes the main working of our network. We perform the below steps in a loop for 100 Epochs.
 
-        a. Initialise a new batch on the training dataset.
+   a. Initialise a new batch on the training dataset.
     
-        b. Run one step of gradient descent and calculate the loss. The learning rate of 0.5 is taken for training. 
+   b. Run one step of gradient descent and calculate the loss. The learning rate of 0.5 is taken for training. 
     
-        c. Calculate the accuracy for this epoch using the entire test dataset.
+   c. Calculate the accuracy for this epoch using the entire test dataset.
     
-        d. Plot this accuracy on the graph. Also, add this accuracy value in an accuracy matrix for later use which will be discussed in later steps.
+   d. Plot this accuracy on the graph. Also, add this accuracy value in an accuracy matrix for later use which will be discussed in later steps.
       
 (vii) Stop the clock timer. Calculate the total time taken for step (vi).
 
